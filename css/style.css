@@ -52,7 +52,7 @@ background-color: #f2e0d2;border-bottom: 1px solid #d2a679;
 .e{font-size: 30px;}
 h6{font-size: 15px;}
 
-.price{width: 1320px;margin:30px auto;height:800px;text-align:center;}
+#price{width: 1320px;margin:30px auto;height:800px;text-align:center;}
 .pricetext{text-align: center;height: 190px;padding-top: 30px;line-height: 50px;}
 .priceul{width: 1320px;height: 500px; text-align: center;margin-top: 50px;}
 
@@ -98,7 +98,7 @@ border-radius: 40px 0 0 0;
 .coffee{font-size: 20px;line-height: 40px; }
 .community{font-size: 20px;line-height: 40px; }
 
-.store{width: 1200px;margin: 0 auto;height:590px;margin-top: 200px;}
+#store{width: 1200px;margin: 0 auto;height:590px;margin-top: 200px;}
 .storeul{box-sizing: border-box;}
 .storeul li{float: left;}
 .storeul li:nth-child(1){width:500px;}
@@ -114,7 +114,7 @@ border-radius: 40px 0 0 0;
 .box{width: 1320px;margin: 0 auto;height:610px;text-align: center;}
 .box ul li{float: left;width: 420px;height: 430px;}
 .boxtext{margin-top: 30px;color: chocolate;font-size: 18px;font-weight: bold;}
-.membership{width:1320px;margin: 50px auto;height: 500px;text-align: center;}
+#membership{width:1320px;margin: 50px auto;height: 500px;text-align: center;}
 .mtext{color: #4b220b;}
 .membershipul{width: 1320px;margin: 50px auto; height: 700px;box-sizing: border-box;}
 .membershipul li{float: left;}
